@@ -1,4 +1,3 @@
-
 <p align="center">
   <img width="500" height="370" src="http://giffetteria.it/archivio/manonthemoon17.gif">
 </p>
